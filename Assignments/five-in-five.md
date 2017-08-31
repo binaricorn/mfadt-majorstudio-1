@@ -14,19 +14,19 @@ Google used to have a Patents API, but has deprecated the endpoint in 2011. So I
 from lxml import html
 import requests
 
-// search for patents
+# search for patents
 page = requests.get('https://patents.google.com/?q=AI&scholar')
 tree = html.fromstring(page.content)
 
-// join all the HTML to a single string
+# join all the HTML to a single string
 text = tree.xpath("//text()")
 text = ' '.join(str(x) for x in text)
 
-// apply a regular expression to filter for patent URLs
+# apply a regular expression to filter for patent URLs
 regexpNS = "http://exslt.org/regular-expressions"
 find = tree.xpath("//*[re:test(., '\/patent\/.*\/en', 'i')]", namespaces={'re':regexpNS})
 
-// show the results
+# show the results
 print(find(text)[0].text)
 ```
 I am not a Python expert just yet, but am under the impression that Google has built into their page some measures to hide some of the HTML from robots like my scraper. At least the HTML my script returns does not include the list of patents from the website.  
