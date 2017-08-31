@@ -1,5 +1,5 @@
 # 8/30: Daily Patent
-In what I'd call my existing artistic practice, I am generally interested in the social and political remifications of technology and design. Especially upcoming technologies provide inspiration for projects. To increase my exposure to these inspirations, I wanted to create an automated newsletter that sends me one interesting patent a day.  
+In what I'd call my existing artistic practice, I am generally interested in the social and political ramifications of technology and design. Especially upcoming technologies provide inspiration for projects. To increase my exposure to these inspirations, I wanted to create an automated newsletter that sends me one interesting patent a day.  
 
 Google used to have a Patents API, but has deprecated the endpoint in 2011. So I tried scraping patents from Google Patents using a simple Python script: 
 
