@@ -18,9 +18,11 @@ I tried briefly to turn my drawings into 3D, but then decided to leave it at 2D 
 To emphasize the abstraction of space between stations that I mentioned earlier, I joined together the maps from entry and exit stations. Here are the final, scanned results:
 
 #### CLASSON AVE via METROPOLITAN to 6TH AVE / 14ST
-![Img](img/mental-models-5.JPG)
+![Img](img/mental-models-5.jpg)
 
 #### JAY ST / METROTECH to 6TH AVE / 14ST
-![Img](img/mental-models-6.JPG)
+![Img](img/mental-models-6.jpg)
 
-If I had more time it could be interesting to improve the visual language of the drawings. One idea is to digitize them and create a reminiscence of architectural blueprints. 
+If I had more time it could be interesting to improve the visual language of the drawings. One idea is to digitize them and create a reminiscence of architectural blueprints. The project would also certainly benefit from visiting and tracing more subway stations. 
+
+A general takeaway of the project is the awe over the convolution of these underground station layouts which are, in turn, part of an amazingly complex infrastructure that is the NYC subway system.
