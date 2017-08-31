@@ -10,7 +10,7 @@ In what I'd call my existing artistic practice, I am generally interested in the
 Google used to have a Patents API, but has deprecated the endpoint in 2011. So I tried scraping patents from Google Patents using a simple Python script: 
 
 ```python
-// import libraries
+# import libraries
 from lxml import html
 import requests
 
