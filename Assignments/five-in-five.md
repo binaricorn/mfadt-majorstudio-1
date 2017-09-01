@@ -8,6 +8,7 @@ With this in mind I thought that I could make my 5-in-5 about creating tools to 
 
 1. [Daily Patent](1-Daily-Patent.md)
 2. [Mental Maps](2-Mental-Maps.md)
+3. [Pic to Paper](3-Pic-to-Paper.md)
 
 ---
 [original doc]
