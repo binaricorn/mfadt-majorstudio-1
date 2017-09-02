@@ -3,7 +3,7 @@ var button;
 function setup() {
 
     // create canvas
-    createCanvas(1680, 862);
+    createCanvas(648, 360);
 
     button = createButton('Click me');
     button.position(width / 2 - 50, height / 2);
