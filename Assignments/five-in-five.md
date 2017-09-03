@@ -34,12 +34,15 @@
 
 ### Day 2: Sound :ear:
 
-Sound Mix:
+2. Sound Mix:
 
 <audio controls="controls">
   <source type="audio/mp3" src="/Users/jacquelinewu/Documents/00_MFADT/F1_MS1/170904_5in5/sound/Hand Sound Mix.mp3"></source></audio>
 
 ### Day 3: Taste :tongue:
+
+1. [Finger-licking Typologies](http://vsco.co/jwumfadt/images/1)
+
 ### Day 4: Smell :nose:
 ### Day 5: Touch :point_up_2:
 
