@@ -5,4 +5,4 @@ Domain - Sociology/Statistics
 
 Execution - An animation that shows the voices inside people's head
 
-![demo img](https://github.com/youozhan/mfadt-majorstudio-1/raw/master/Assignments/D2P2/img/voice.001.jpeg "Img demo-ing the scenario")
+![demo img](https://github.com/youozhan/mfadt-majorstudio-1/raw/master/Assignments/D2P2/voice.001.jpeg "Img demo-ing the scenario")
