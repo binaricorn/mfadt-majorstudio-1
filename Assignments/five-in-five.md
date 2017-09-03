@@ -25,3 +25,14 @@
 [Beeple](http://www.beeple-crap.com/everydays_one.php)
 
 [NaNoGenMo](https://nanogenmo.github.io/)
+
+<br><br>
+
+## 5 Days, 5 Senses, 5 Extremities
+
+### Day 1: Sight :eyes:
+### Day 2: Sound :ear:
+### Day 3: Taste :tongue:
+### Day 4: Smell :nose:
+### Day 5: Touch :point_up_2:
+
