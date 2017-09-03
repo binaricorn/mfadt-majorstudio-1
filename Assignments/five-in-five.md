@@ -31,7 +31,14 @@
 ## 5 Days, 5 Senses, 5 Extremities
 
 ### Day 1: Sight :eyes:
+
 ### Day 2: Sound :ear:
+
+Sound Mix:
+
+<audio controls="controls">
+  <source type="audio/mp3" src="/Users/jacquelinewu/Documents/00_MFADT/F1_MS1/170904_5in5/sound/Hand Sound Mix.mp3"></source></audio>
+
 ### Day 3: Taste :tongue:
 ### Day 4: Smell :nose:
 ### Day 5: Touch :point_up_2:
