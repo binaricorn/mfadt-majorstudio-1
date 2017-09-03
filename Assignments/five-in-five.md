@@ -34,10 +34,7 @@
 
 ### Day 2: Sound :ear:
 
-2. Sound Mix:
-
-<audio controls="controls">
-  <source type="audio/mp3" src="/Users/jacquelinewu/Documents/00_MFADT/F1_MS1/170904_5in5/sound/Hand Sound Mix.mp3"></source></audio>
+2. [Hands - Sound Mix](https://drive.google.com/open?id=0B_qCK67tHEqDZTZGQldFWWtrU00)
 
 ### Day 3: Taste :tongue:
 
