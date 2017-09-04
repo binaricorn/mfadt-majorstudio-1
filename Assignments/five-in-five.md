@@ -26,4 +26,6 @@
 
 [NaNoGenMo](https://nanogenmo.github.io/)
 
-
+## My works
+* Goal: "Rediscover"
+  First and foremost, 
