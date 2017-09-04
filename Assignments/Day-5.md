@@ -14,7 +14,7 @@ I used to starting everyday with a fried egg and a glass of juice or soymilk.
 
 I enjoy the process of frying an egg as well as smelling it as well as eating it.:stuck_out_tongue:
 
-### So... maybe it will also give me a pleasure when I listening to it:question:
+### :question:So... maybe it will also give me a pleasure when I listening to it:question:
 
 ## Solution
 
