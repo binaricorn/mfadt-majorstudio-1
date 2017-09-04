@@ -34,7 +34,8 @@ Under the pressure of time, I decided to do some visually intuitive projects in 
 
 ### Outcomes:
 
-* DAY 1--Bananas--Smell--Handcraft[Click here for details](Day-1.md)
+* DAY 1--Bananas--Smell--Handcraft
+[Click here for details](Day-1.md)
 
 * DAY 2--Kitchen Washing Sponges--Touch--Photoshop
 
