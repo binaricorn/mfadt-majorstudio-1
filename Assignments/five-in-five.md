@@ -36,15 +36,23 @@ Under the pressure of time, I decided to do some visually intuitive projects in 
 
 * DAY 1--Bananas--Smell--Handcraft
 
-:point_right: [Click here for details](Day-1.md)
+:point_right: [Click here for details](Day-1.md):banana:
 
 * DAY 2--Kitchen Washing Sponges--Touch--Photoshop
 
+:point_right: [Click here for details](Day-2.md):ocean:
+
 * DAY 3--Snacks--Taste--Drawing & Interview
+
+:point_right: [Click here for details](Day-3.md):cookie:
 
 * DAY 4--Plastics Shopping Baggs--See--Handmaking
 
+:point_right: [Click here for details](Day-4.md):money_with_wings:
+
 * DAY 5--Eggs--Hear--Recording & Editing
+
+:point_right: [Click here for details](Day-5.md):egg:
 
 ## Assignment guidelines
 * For the next five days, create one project per day. Each project must be conceptualized, produced and documented in a single day. 
