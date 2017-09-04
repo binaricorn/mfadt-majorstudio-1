@@ -1,6 +1,5 @@
 # 5 in 5
-[Project brief](https://docs.google.com/a/newschool.edu/document/d/1LOWQXv9i27Uj8eECxLeZi66yjTRcqk260O4kw_98eOc/edit?usp=sharing)
-
+---
 ## My works
 ### Goal: "Rediscover"
 
@@ -53,6 +52,11 @@ Under the pressure of time, I decided to do some visually intuitive projects in 
 * DAY 5--Eggs--Hear--Recording & Editing
 
 :point_right: [Click here for details](Day-5.md):egg:
+
+---
+[original doc]
+# 5 in 5
+[Project brief](https://docs.google.com/a/newschool.edu/document/d/1LOWQXv9i27Uj8eECxLeZi66yjTRcqk260O4kw_98eOc/edit?usp=sharing)
 
 ## Assignment guidelines
 * For the next five days, create one project per day. Each project must be conceptualized, produced and documented in a single day. 
