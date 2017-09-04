@@ -37,18 +37,18 @@ Basically, I should choose one thing from my "*Kitchen*" everyday and use one of
 
 1. Why Kitchen?:pizza::fork_and_knife::corn::eggplant::beer:
 
-It is an indispensable place/scenario in our daily lives;
+:one:It is an indispensable place/scenario in our daily lives;
 
-There are various different kinds of objects in kitchen, most of which we are familiar with as we use them everyday;
+:two:There are various different kinds of objects in kitchen, most of which we are familiar with as we use them everyday;
 
-It could be interesting to think about our relationship with this stuffs and what kind of functions kitchen performs.
+:three:It could be interesting to think about our relationship with this stuffs and what kind of functions kitchen performs.
 
 2. Why 5 Senses?:eyes::nose::ear::tongue::hand:
 
-We depend on 5 senses to perceive the world around us, to learn and to connect;
+:one:We depend on 5 senses to perceive the world around us, to learn and to connect;
 
-5 senses and their operation, classification, and theory are overlapping topics studied by a variety of fields, including design;
+:two:5 senses and their operation, classification, and theory are overlapping topics studied by a variety of fields, including design;
 
-In most cases, we use our eyes and ears to sense and pay less attention to the performance of our noses and hands;
+:three:In most cases, we use our eyes and ears to sense and pay less attention to the performance of our noses and hands;
 
-I am also trying to build the interconnetion between 5 senses.
+:four:I am also trying to build the interconnetion between 5 senses.
