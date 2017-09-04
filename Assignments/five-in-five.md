@@ -44,3 +44,11 @@ There are various different kinds of objects in kitchen, most of which we are fa
 It could be interesting to think about our relationship with this stuffs and what kind of functions kitchen performs.
 
 2. Why 5 Senses?:eyes::nose::ear::tongue::hand:
+
+We depend on 5 senses to perceive the world around us, to learn and to connect;
+
+5 senses and their operation, classification, and theory are overlapping topics studied by a variety of fields. Therefore 5 senses play a crucial role, when we design for human beings;
+
+In most cases, we use our eyes and ears to sense and pay less attention to the performance of our noses and hands;
+
+I am also trying to build the interconnetion between 5 senses.
