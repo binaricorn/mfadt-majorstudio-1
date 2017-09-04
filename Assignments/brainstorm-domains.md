@@ -1,21 +1,25 @@
 # Brainstorm around interest areas and research domains
 
-Focused domain: Psychology
+#### Focused domain
+Psychology
 
-Blue-sky concept: Mental health and self-curing system
+#### Blue-sky concept
+Mental health and self-curing system
 
-Broad Topic: Mental health
+#### Broad Topic
+Mental health
 
-Focused Topic: Mental health has not got enough attention.
+#### Focused Topic
+Mental health has not got enough attention.
 
-Questions: 
+#### Questions 
 * What may be the causes for the mental illness (stress, etc.)?
 
 * How might we guide people to form right habbits and avoid too much stress?
 
 * Could it be similar as physical exercises?
 
-Precedents:
+#### Precedents
 
 [Monument Valley](https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8)
 
