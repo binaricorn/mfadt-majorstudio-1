@@ -1,4 +1,6 @@
 # D1P1
+Rule - Think about a behavior and reverse the design
+
 Concept - An interface that always confuses the user 
 
 Domain - Psychology/Usability/Interaction
