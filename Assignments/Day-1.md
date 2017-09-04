@@ -15,3 +15,9 @@ As a lazy person, I love bananas, because they are easy to peel. However, at the
 Because bananas can not speak like people.:expressionless: They can not call you to eat them. So I was wondering:
 
 ### How can I make them "speak" to remind me to enjoy my everyday banana:question:
+
+## Solution
+
+According to my research on the Internet, I know that bananas produce a huge amount of *Ethylene Gas* as they ripen as well as a series of volatile esters and alcohols that make up their aroma. And the more *Ethylene Gas* they produce, the faster they go downhill.
+
+Then I came up with the idea to use a sensor to detect the concentration of *Ethylene Gas* in the atmosphere around bananas and connect that data to a *LED Screen* and *Voicebox*, which will remind you to eat your bananas in their best flavor and fragrance.
