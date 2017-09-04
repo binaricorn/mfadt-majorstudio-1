@@ -14,7 +14,7 @@ One thing that surprise me when I first went shopping in NY is that shops here a
 
 Gradually, those plastic shopping bags pile up in my cupboard. And the speed I recycle them as trash bags is always slower than the speed I get new ones.
 
-### So...maybe I could also make :recycle:*"A Trash Bags Dress"*:recycle: like those boring people on the Internet:question::sweat_smile:
+### :question:So...maybe I could also make :recycle:*"A Trash Bags Dress"*:recycle: like those boring people on the Internet:question::sweat_smile:
 
 ## Solution
 
