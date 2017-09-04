@@ -6,8 +6,26 @@
 * [The Craft of Research (my abriged version)](https://github.com/binaricorn/mfadt-majorstudio-1/blob/master/Additional%20Readings/The%20Craft%20of%20Research%20-%20Abridged.pdf)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
-## Homework guidelines
-* Read through: 3.3.1 - 3.3.6, “Ask about the History of Your Topic” and onwards
-* Then try 3.4.1 - 3.4.2 with your concepts.
-* Add revised or improved versions of your ideas on your brainstorm-domains blog post
-* Average time this assignment should take: no more than 30 min
+## Homework
+Focused domain: Psychology
+
+Blue-sky concept: Mental health and self-curing system
+
+![demo img](https://github.com/youozhan/mfadt-majorstudio-1/raw/master/Assignments/Assets/FullSizeRender.jpg "Post-it note")
+
+Broad Topic: Mental health
+
+Focused Topic: Mental health has not got enough attention.
+
+Questions: 
+* What may be the causes for the mental illness (stress, etc.)?
+
+* How might we guide people to form right habbits and avoid too much stress?
+
+* Could it be similar as physical exercises?
+
+Precedents:
+
+[Monument Valley](https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8)
+
+[MindStrength](https://www.mindstrengthproject.com/mindstrength/)
