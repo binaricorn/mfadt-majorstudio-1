@@ -25,3 +25,7 @@ Colors are often regarded to convey certain information that connected with our 
 ### Besides using colors to give a visual impact during the formation of our cognition, what if we can also touch to learn new things :question:
 
 ## Solution
+
+Compared with adults, babies appear to be more sensitive to colors and sounds in our surroundings. Also, babies are active and curious. They tend to move around to explore and feel this world with their hands and legs. So an idea to design :hand:*"A Touchable Book"*:hand: for kids(Age 3-6) came to me.
+
+It is a book that introduce different animals to kids. Instead of being printed on the paper, the figures of animals will be make through different materials. Animals that are dangerous will be made by materials that are relative rough, while gentle animals will be made by soft materials.
