@@ -22,9 +22,13 @@ There were many interesting moments in the commute:
 
 ![Img](img/day2/1.JPG)
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=7LBghwz0QOo&feature=youtu.be)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7LBghwz0QOo" frameborder="0" allowfullscreen></iframe>
+
 ![Vid](img/day2/2.MOV)
 
 ## Product
 
 ![Img](img/day2/3.PNG)
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=7LBghwz0QOo&feature=youtu.be)
+
