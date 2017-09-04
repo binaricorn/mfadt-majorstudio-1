@@ -27,6 +27,20 @@
 [NaNoGenMo](https://nanogenmo.github.io/)
 
 ## My works
-* Goal: "Rediscover":bulb:
+* Goal: "Rediscover"
 
-First and foremost, in this *5n5* project I want to enhance my abilities to solve problems, but in a more creative way. As there will be an obligatory rule for me to follow and time restriction, it will be a good chance to exercise brainstorming and creative thinking. Also the room for iteration will be huge, because the your idea could be preliminary as well as your work. In this case, I set "Rediscover" as my goal in this project, not only trying to find a solution of a daily problem in an unusual way, a new function of an object we may never thought before, but also trying to push and challenge myself and see what I can achieve under this pressure.:smiling_imp:
+First and foremost, in this *5n5* project I want to enhance my abilities to solve problems, but in a more creative way. As there will be an obligatory rule for me to follow and time restriction, it will be a good chance to exercise brainstorming and creative thinking. Also the room for iteration will be huge, because the your idea could be preliminary as well as your work. In this case, I set "Rediscover":bulb: as my goal in this project, not only trying to find a solution of a daily problem in an unusual way, a new function of an object we may never thought before, but also trying to push and challenge myself and see what I can achieve under this pressure.:smiling_imp:
+
+* Rule:
+
+Basically, I should choose one thing from my "*Kitchen*" everyday and use one of my "*5 Senses*" to finish my project.
+
+1. Why Kitchen?:pizza::fork_and_knife::corn::eggplant::beer:
+
+It is an indispensable place/scenario in our daily lives;
+
+There are various different kinds of objects in kitchen, most of which we are familiar with as we use them everyday;
+
+It could be interesting to think about our relationship with this stuffs and what kind of functions kitchen performs.
+
+2. Why 5 Senses?:eyes::nose::ear::tongue::hand:
