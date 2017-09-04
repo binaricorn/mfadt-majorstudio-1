@@ -12,8 +12,13 @@
 
 ![Img](pics/Day-2/pic-2.jpg)
 
-One interesting thing I found about these washing sponges is that they have two sides: one side is hard and rough, another side is soft and fine. This dual-functionality facilitates our daily lives. I tried to associate this duality with something else like *"Hard and Rough"* is related to "Difficult", "Dislike", "Negative", "Harmful", "Dangerous"... *"Soft and Fine"*, conversely, is related to "Easy", "Like", "Positive", "Healthy", "Safe"...
+One interesting thing I found about these washing sponges is that they have TWO sides: one side is hard and rough, another side is soft and fine. This dual-functionality facilitates our daily lives.
 
-### How can I make them "speak" to remind me to enjoy my everyday banana:question:
+I tried to extend this duality by trying to associate it with words that give the same feeling when I touch the washing sponge:
+
+### *"Hard and Rough"* is related to "Difficult", "Dislike", "Negative", "Harmful", "Dangerous"...
+
+### *"Soft and Fine"*, conversely, is related to "Easy", "Like", "Positive", "Healthy", "Safe"...
+
 
 ## Solution
