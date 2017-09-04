@@ -20,5 +20,8 @@ I tried to extend this duality by trying to associate it with words that give th
 
 ###### "Soft and Fine": "Easy", "Like", "Positive", "Healthy", "Safe"...
 
+Colors are often regarded to convey certain information that connected with our emotions and feelings. Like "Red" :rotating_light: often used to call people's attention, while "Green":four_leaf_clover: represents safe and sound. So I thought:
+
+### Besides using colors to give a visual impact during the formation of our cognition, what if we can also touch to learn new things :question:
 
 ## Solution
