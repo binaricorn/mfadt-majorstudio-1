@@ -27,7 +27,7 @@
 [NaNoGenMo](https://nanogenmo.github.io/)
 
 ## My works
-* Goal: "Rediscover"
+* Goal:"Rediscover"
 
 First and foremost, in this *5n5* project I want to enhance my abilities to solve problems, but in a more creative way. As there will be an obligatory rule for me to follow and time restriction, it will be a good chance to exercise brainstorming and creative thinking. Also the room for iteration will be huge, because the your idea could be preliminary as well as your work. In this case, I set "Rediscover":bulb: as my goal in this project, not only trying to find a solution of a daily problem in an unusual way, a new function of an object we may never thought before, but also trying to push and challenge myself and see what I can achieve under this pressure.:smiling_imp:
 
