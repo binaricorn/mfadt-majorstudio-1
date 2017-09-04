@@ -33,7 +33,7 @@ First and foremost, in this *5n5* project I want to enhance my abilities to solv
 
 * Rule:
 
-Basically, I should choose 5 different things from my "*Kitchen*" everyday and use one of my "*5 Senses*" to finish my project.
+Basically, I should choose 5 different things from my "*Kitchen*" everyday and use one of my "*5 Senses*" to finish my project with "*5 Different Medium*".
 
 1. Why Kitchen?:pizza::fork_and_knife::corn::eggplant::beer:
 
@@ -53,8 +53,6 @@ Basically, I should choose 5 different things from my "*Kitchen*" everyday and u
 
 :four:I am also trying to build the interconnetion between 5 senses.
 
-* Medium:
+3. Medium:
 
-Under the pressure of time, I decided to do some visually intuitive projects in simple ways, like with the help of:
-
-Drawing, Making, Writing, Photo, Music, Video... (no Coding:satisfied:)
+Under the pressure of time, I decided to do some visually intuitive projects in simple ways, like with the help of: Drawing, Making, Writing, Photo, Music, Video... (no Coding:satisfied:)
