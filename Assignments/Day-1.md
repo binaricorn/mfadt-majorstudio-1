@@ -14,7 +14,7 @@ As a lazy person, I love bananas, because they are easy to peel. However, at the
 
 Because bananas can not speak like people.:expressionless: They will not call you to eat them. So I was wondering:
 
-### How can I make them "speak" to remind me to enjoy my everyday banana:question:
+### :question:How can I make them "speak" to remind me to enjoy my everyday banana:question:
 
 ## Solution
 
