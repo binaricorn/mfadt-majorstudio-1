@@ -29,3 +29,17 @@ Colors are often regarded to convey certain information that connected with our 
 Compared with adults, babies appear to be more sensitive to colors and sounds in our surroundings. Also, babies are active and curious. They tend to move around to explore and feel this world with their hands and legs. So an idea to design :hand:*"A Touchable Book"*:hand: for kids(Age 3-6) came to me.
 
 It is a book that introduce different animals to kids. Instead of being printed on the paper, the figures of animals will be make through different materials. Animals that are dangerous will be made by materials that are relative rough, while gentle animals will be made by soft materials.
+
+![Img](pics/Day-2/pic-3.jpg)
+
+![Img](pics/Day-2/crocodile-after.jpg)
+
+:point_up_2:I used Photoshop to copy the pattern on the *hard* side of washing sponges to fill the crocodile.:point_up_2:
+
+![Img](pics/Day-2/dolphin-after.png)
+
+:point_up_2:The pattern on the *soft* side of washing sponges to fill the dolphin.:point_up_2:
+
+![Img](pics/Day-2/crocodile.jpg)
+
+![Img](pics/Day-2/dolphin.jpg)
