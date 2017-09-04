@@ -22,6 +22,6 @@ There were many interesting moments in the commute:
 
 ![Img](img/day2/1.JPG)
 
-![Img](img/day2/2.MOV)
+![Vid](img/day2/2.MOV)
 
 ## Product
