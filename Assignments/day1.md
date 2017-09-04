@@ -14,4 +14,4 @@ I bought Haribos, marshmallow, popcorn, and the concept is to put these snacks i
 ![Img](img/day1/3.JPG)
 ![Img](img/day1/4.JPG)
 ![Img](img/day1/5.JPG)
-![Img](img/day1/6.JPG) a_flip = a[:, ::-1]
+![Img](img/day1/6.JPG)
