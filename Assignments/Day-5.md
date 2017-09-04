@@ -29,3 +29,5 @@ Then, I will have a customized :alarm_clock:*"A Morning Call"*:alarm_clock: for 
 ![Img](pics/Day-5/pic-2.jpg)
 
 ![Img](pics/Day-5/pic-3.jpg)
+
+:point_up:I used Au & Pr to edit my own morning call.:point_up:
