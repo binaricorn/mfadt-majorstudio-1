@@ -27,4 +27,3 @@
 [NaNoGenMo](https://nanogenmo.github.io/)
 
 
-Just an experiment!
