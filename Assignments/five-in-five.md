@@ -53,10 +53,18 @@ Basically, I should choose 5 different things from my "*Kitchen*" everyday and u
 
 4. I am also trying to build the interconnetion between 5 senses.
 
-* What kinds of media?
+* What kinds of media?:pencil2::scissors::art::clapper::guitar:
 
 Under the pressure of time, I decided to do some visually intuitive projects in simple ways, like with the help of: Drawing, Making, Writing, Photos, Music, Video... (no Coding:satisfied:)
 
 ### Outcomes:
 
-* DAY 1--Banana--Smell
+* DAY 1--Bananas--Smell--Handcraft
+
+* DAY 2--Kitchen Washing Sponges--Touch--Photoshop
+
+* DAY 3--Snacks--Taste--Drawing & Interview
+
+* DAY 4--Plastics Shopping Baggs--See--Handmaking
+
+* DAY 5--Eggs--Hear--Recording & Editing
