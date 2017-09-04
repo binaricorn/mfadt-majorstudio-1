@@ -64,7 +64,7 @@ Under the pressure of time, I decided to do some visually intuitive projects in 
 
 ### DAY 4:
 
-* Plastics Shopping Baggs
+* Plastic Shopping Baggs
 
 * See
 
