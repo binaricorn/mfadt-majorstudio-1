@@ -24,7 +24,7 @@ First, make an audio record of frying an egg;
 
 Second, edit the audio and voice;
 
-Then, I will have a customized :alarm_clock:*"A Morning Call"*:alarm_clock: for myself!
+Now, I will get a customized :alarm_clock:*"A Morning Call"*:alarm_clock: for myself! And getting up shouldn't be difficult any more!
 
 ![Img](pics/Day-5/pic-2.jpg)
 
