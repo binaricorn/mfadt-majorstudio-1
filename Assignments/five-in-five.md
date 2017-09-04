@@ -55,4 +55,4 @@ Basically, I should choose 5 different things from my "*Kitchen*" everyday and u
 
 3. Medium:
 
-Under the pressure of time, I decided to do some visually intuitive projects in simple ways, like with the help of: Drawing, Making, Writing, Photo, Music, Video... (no Coding:satisfied:)
+Under the pressure of time, I decided to do some visually intuitive projects in simple ways, like with the help of: Drawing, Making, Writing, Photos, Music, Video... (no Coding:satisfied:)
