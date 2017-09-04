@@ -22,4 +22,6 @@ According to my research on the Internet, I know that bananas produce a huge amo
 
 Then I came up with the idea to use a sensor to detect the concentration of *Ethylene Gas* in the atmosphere around bananas and connect that data to a *LED Screen* and *Voicebox*, which will remind you to eat your bananas in their best flavor and fragrance.
 
-Also, I designed an interactive part. Whenever you eat a GOOD banana, the number next to the "Happy Face" will plus 1. Conversely, whenever you forget your banana, the number next to the "Sad Face" will plus 1.
+Also, I designed an interactive part. Whenever you eat a good banana, the number next to the "Happy Face" will plus 1. Conversely, whenever you forget your banana, the number next to the "Sad Face" will plus 1.
+
+![Img](pics/Day-1/pic-2.jpg)
