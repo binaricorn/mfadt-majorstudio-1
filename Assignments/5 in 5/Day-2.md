@@ -43,3 +43,5 @@ It is a book that introduces different animals to kids. Instead of being printed
 ![Img](pics/Day-2/crocodile.jpg)
 
 ![Img](pics/Day-2/dolphin.jpg)
+
+## :point_right:[Go to Day 3](Day-3.md)
