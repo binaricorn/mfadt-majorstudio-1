@@ -26,10 +26,12 @@ Medium: food
 Medium: social media
 
 1. [Google Form](https://goo.gl/forms/tRxYy8HOBknps4IF2)
-1. [Smell My Hands Tumblr](https://smellmyhands.tumblr.com/)
+2. [Smell My Hands Tumblr](https://smellmyhands.tumblr.com/)
 
 ### Day 5: Touch :point_up_2:
 Medium: arduino
+1. [Prototype](https://drive.google.com/open?id=0B_qCK67tHEqDc19paXZwdGZ5UVE)
+2. [Code]()
 
 <br><br>
 
