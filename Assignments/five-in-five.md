@@ -5,6 +5,8 @@
 
 ### Day 1: Sight :eyes:
 Medium: light
+1. [Light Typologies](https://drive.google.com/drive/folders/0B_qCK67tHEqDVy1yTkhwOHVSR3c?usp=sharing)
+2. [Scans](https://drive.google.com/open?id=0B_qCK67tHEqDNG05ckxic212eW8)
 
 ### Day 2: Sound :ear:
 Medium: mp3
@@ -16,6 +18,7 @@ Medium: mp3
 Medium: food
 
 1. [Finger-licking Typologies](http://vsco.co/jwumfadt/images/1)
+2. [Sculpture]()
 
 ### Day 4: Smell :nose:
 Medium: social media
