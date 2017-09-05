@@ -40,7 +40,15 @@ Then, I am followed the process outlined in Chapter 3.4.1-3.4.2:
 :point_right:in order to use those techniques to make my game more engaging and interesting.
 
 #### Motion Graphics
-4. I am trying to know
+4. I am trying to know the criteria of an outstanding motion graphics work
+
+:point_right:because I want to know the workflow when you are working on your project
+
+:point_right:in order to do my work most efficiently.
 
 #### Creative Storystelling
-5. I am doing research to find out
+5. I am doing research to find out the relationship between storytellers and listeners when it comes to interactive storytelling
+
+:point_right:because I want to know what kind of influence the storytellers may exert on their listeners
+
+:point_right:in order to let my listeners explore the story actively instead of just listen the story passively.
