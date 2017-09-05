@@ -1,6 +1,6 @@
-#Day 3 - About New York City
+# Day 3 - About New York City
 
-##Inspiration
+## Inspiration
 
 I have been thinking of a way to represent NYC in my point of view since I've been here.
 I decided to make a video that focuses on the transportation and movements in this city to show how New York looks like in my eyes.
