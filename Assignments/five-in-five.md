@@ -3,6 +3,8 @@
 
 ## 5 Days, 5 Senses, 5 Extremities
 
+[Inspiration](https://drive.google.com/open?id=0B_qCK67tHEqDZkhXSHUzOUphejQ)
+
 ### Day 1: Sight :eyes:
 Medium: light
 1. [Light Typologies](https://drive.google.com/drive/folders/0B_qCK67tHEqDVy1yTkhwOHVSR3c?usp=sharing)
@@ -39,7 +41,7 @@ Medium: arduino
 ## Questions
 * What are some rules you put in place for your project? *5 different mediums, all surrounding our perception of the hands through the 5 senses*
 * What is the relationship between concept and execution? *Finding the best way of representing a sensory experience in a tangible form.*
-* Is there something that ties the projects together? *The 5 senses!*
+* Is there something that ties the projects together? *The hands.*
 * How could you have improved them? *Fine tuning the craft; more extensive typologies* 
 * Did you enjoy the exercise, why or why not? What were some struggles? *I enjoyed the project because it challenged me to use mediums that I've never experimented with before. Initially, it was difficult because there were no restraints. I'm also not one to be very spontaneous.*
 
