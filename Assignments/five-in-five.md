@@ -34,12 +34,15 @@
 
 ### Day 2: Sound :ear:
 
-2. [Hands - Sound Mix](https://drive.google.com/open?id=0B_qCK67tHEqDZTZGQldFWWtrU00)
+1. [Hands - Sound Mix](https://drive.google.com/open?id=0B_qCK67tHEqDZTZGQldFWWtrU00)
 
 ### Day 3: Taste :tongue:
 
 1. [Finger-licking Typologies](http://vsco.co/jwumfadt/images/1)
 
 ### Day 4: Smell :nose:
+
+1. [Smell My Hands](https://smellmyhands.tumblr.com/)
+
 ### Day 5: Touch :point_up_2:
 
