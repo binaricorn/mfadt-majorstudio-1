@@ -12,6 +12,8 @@ I bought Haribos, marshmallow, popcorn, and the concept is to put these snacks i
 
 ![Img](img/day1/1.JPG)
 
+![Img](img/day1/7.JPG)
+
 ![Img](img/day1/2.JPG)
 
 ![Img](img/day1/3.JPG)
