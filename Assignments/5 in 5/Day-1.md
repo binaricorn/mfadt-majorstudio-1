@@ -41,3 +41,5 @@ Also, I designed an interactive part. Whenever you eat a good banana, the number
 :point_up:I used a series of *Emoji Faces* to describe the progress as bananas ripen.:point_up:
 
 ![Img](pics/Day-1/pic-6.jpg)
+
+## :point_right:[Go to Day 2](Day-2.md)
