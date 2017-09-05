@@ -39,3 +39,5 @@ Gradually, those plastic shopping bags pile up in my cupboard. And the speed I r
 ![Img](pics/Day-4/pic-9.jpg)
 
 ### :video_camera:[Click here to see the video](https://vimeo.com/232404622)
+
+## :point_right:[Go to Day 5](Day-5.md)
