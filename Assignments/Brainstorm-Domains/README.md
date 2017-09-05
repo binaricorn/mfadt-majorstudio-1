@@ -19,23 +19,23 @@ Then, I am followed the process outlined in Chapter 3.4.1-3.4.2:
 ---
 
 #### Social Collaboration
-1. I am studying the psychological motivations of social collaboraion,
+1. I am studying the psychological motivations of social collaboration,
 
 :point_right:because I want to find out what kinds of factors will lead people to cooperate with each other
 
-:point_right:in order to incorporate these factors when designing some collabotaion-based systems.
+:point_right:in order to incorporate these factors when designing some social collaboration-based systems.
 
 #### Interactive Installations
 2. I am trying to learn the secrets of success of some interactive installations,
 
-:point_right:because I want to know the functionality and mechanism of the interaction
+:point_right:because I want to know about the functionality of those installations and mechanism of the interaction
 
 :point_right:in order to make my installations more intuitive and useful.
 
 #### Game Design
 3. I am working on the characteristics of good game design,
 
-:point_right:because I want to know how different factors function in game, like the background story, the rule, the characters etc.
+:point_right:because I want to know how different factors perform in a game, like the background story, the rule, the characters etc.
 
 :point_right:in order to use those techniques to make my game more engaging and interesting.
 
@@ -44,11 +44,11 @@ Then, I am followed the process outlined in Chapter 3.4.1-3.4.2:
 
 :point_right:because I want to know the workflow when you are working on your project
 
-:point_right:in order to do my work most efficiently.
+:point_right:in order to do my work efficiently.
 
 #### Creative Storystelling
 5. I am doing research to find out the relationship between storytellers and listeners when it comes to interactive storytelling
 
 :point_right:because I want to know what kind of influence the storytellers may exert on their listeners
 
-:point_right:in order to let my listeners explore the story actively instead of just listen the story passively.
+:point_right:in order to let my listeners explore the story actively instead of just listening to the story passively.
