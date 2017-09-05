@@ -6,3 +6,5 @@ Although I do not dislike people who smoke, I do hate it when the smoke floats t
 ## Idea
 This project is for me to brainstorm ways that can prevend such situation so that people do not like smoke don't have to suck in secondhand smoke.
 I used drawings to express my ideas. Although they are pretty simple.
+
+![Img](img/day4/1.JPG)
