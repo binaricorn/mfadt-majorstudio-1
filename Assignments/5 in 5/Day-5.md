@@ -32,4 +32,4 @@ Now, I will get a customized :alarm_clock:*"A Morning Call"*:alarm_clock: for my
 
 :point_up:I used Au & Pr to edit my own morning call.:point_up:
 
-### :headphones:[Click here to go to the audio](https://drive.google.com/open?id=0B0F2hYIJEInzejVZaGp4anRvdE0)
+### :headphones:[Click here to listen to the audio](https://drive.google.com/open?id=0B0F2hYIJEInzejVZaGp4anRvdE0)
