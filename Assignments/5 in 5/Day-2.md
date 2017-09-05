@@ -14,7 +14,7 @@
 
 One interesting thing I found about these washing sponges is that they have TWO sides: one side is hard and rough, another side is soft and fine. This dual-functionality facilitates our daily lives.
 
-I tried to extend this duality by trying to associate it with words that give the same feeling when I touch the washing sponge:
+I tried to extend this duality by associating it with words that give the same feelings when I touch the washing sponges:
 
 ###### "Hard and Rough": "Difficult", "Dislike", "Negative", "Harmful", "Dangerous"...
 
@@ -28,7 +28,7 @@ Colors are often regarded to convey certain information that connected with our 
 
 Compared with adults, babies appear to be more sensitive to colors and sounds in our surroundings. Also, babies are active and curious. They tend to move around to explore and feel this world with their hands and legs. So an idea to design :hand:*"A Touchable Book"*:hand: for kids(Age 3-6) came to me.
 
-It is a book that introduce different animals to kids. Instead of being printed on papers, the figures of animals will be make through different materials. Animals that are dangerous will be made by materials that are relative rough, while gentle animals will be made by soft materials.
+It is a book that introduces different animals to kids. Instead of being printed on papers, the figures of animals will be made by different materials. Animals that are dangerous will be made by materials that are relative rough, while gentle animals will be made by soft ones.
 
 ![Img](pics/Day-2/pic-3.jpg)
 
