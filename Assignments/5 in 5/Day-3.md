@@ -38,3 +38,5 @@ It appeared that even if some people could not remember clearly what the package
 ![Img](pics/Day-3/pic-5.jpg)
 
 ![Img](pics/Day-3/pic-6.jpg)
+
+## :point_right:[Go to Day 4](Day-4.md)
