@@ -1,6 +1,8 @@
 # 5 in 5
 [Project brief](https://docs.google.com/a/newschool.edu/document/d/1LOWQXv9i27Uj8eECxLeZi66yjTRcqk260O4kw_98eOc/edit?usp=sharing)
 
+[Presentation Link](https://docs.google.com/a/newschool.edu/presentation/d/1UmHvRZNYUJ-XpApZOpzDwaXZFIf59LALUozw5_EFDck/edit?usp=sharing)
+
 ## 5 Days, 5 Senses, 5 Extremities
 
 [Inspiration](https://drive.google.com/open?id=0B_qCK67tHEqDZkhXSHUzOUphejQ)
@@ -35,10 +37,6 @@ Medium: arduino
 
 <br><br>
 
-## Presentation guidelines
-* On Wednesday, 9/6
-* 7 minutes presentation each person
-* 30 minutes group discussion afterwards
 
 ## Questions
 * What are some rules you put in place for your project? *5 different mediums, all surrounding our perception of the hands through the 5 senses*
