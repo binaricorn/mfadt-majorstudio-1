@@ -15,4 +15,4 @@
 
 
 * A snippet I like from Craft of Research:
-![](https://github.com/binaricorn/mfadt-majorstudio-1/blob/master/Assignments/craft-of-research-3.2.png)
+![](https:github.com/byerj839/mfadt-majorstudio-1/Assignments/IMG_5550.JPG)
