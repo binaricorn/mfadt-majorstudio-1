@@ -25,3 +25,18 @@
 [Beeple](http://www.beeple-crap.com/everydays_one.php)
 
 [NaNoGenMo](https://nanogenmo.github.io/)
+
+
+## What I've done
+* Choose a number
+* Choose a color
+* Use the color and patterns of that number to create something showing the feelings/thoughts at that day.
+
+## See the outcomes
+[5 in 5 by Iris](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/5%20in%205%20by%20Iris.pdf)
+
+## Refelections
+* Design can be a strong tool of expression, very personally.
+* Every thing can be abstracted as patterns.
+* I could have done better: To create a tool for people to show and exchange their feelings with each other by drawing patterns.
+* Struggles: how to create something really useful / helpful?
