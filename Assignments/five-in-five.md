@@ -3,6 +3,8 @@
 
 [Presentation Link](https://docs.google.com/a/newschool.edu/presentation/d/1UmHvRZNYUJ-XpApZOpzDwaXZFIf59LALUozw5_EFDck/edit?usp=sharing)
 
+<br>
+
 ## 5 Days, 5 Senses, 5 Extremities
 
 [Inspiration](https://drive.google.com/open?id=0B_qCK67tHEqDZkhXSHUzOUphejQ)
