@@ -5,7 +5,7 @@
 
 <br>
 
-## 5 Days, 5 Senses, 5 Extremities
+## 5 Days, 5 Senses, 5 Mediums, 5 Extremities
 
 [Inspiration](https://drive.google.com/open?id=0B_qCK67tHEqDZkhXSHUzOUphejQ)
 
@@ -37,7 +37,7 @@ Medium: technology
 1. [Prototype](https://drive.google.com/open?id=0B_qCK67tHEqDc19paXZwdGZ5UVE)
 2. [Code]()
 
-<br><br>
+<br>
 
 
 ## Questions
@@ -46,6 +46,8 @@ Medium: technology
 * Is there something that ties the projects together? *The hands.*
 * How could you have improved them? *Fine tuning the craft; more extensive typologies* 
 * Did you enjoy the exercise, why or why not? What were some struggles? *I enjoyed the project because it challenged me to use mediums that I've never experimented with before. Initially, it was difficult because there were no restraints. I'm also not one to be very spontaneous.*
+
+<br>
 
 ## Examples
 [Noah takes a photo of himself every day for 12.5 years](https://www.youtube.com/watch?v=iPPzXlMdi7o)
