@@ -11,8 +11,14 @@ I used drawings to express my ideas. Although they are pretty simple.
 
 I selected several ideas to make small comic to demonstrate the scenario.
 
+🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶
 ![Img](img/day4/2.JPG)
+
+🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶
 ![Img](img/day4/4.JPG)
+
+🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶🕶
+
 ![Img](img/day4/5.JPG)
 
 
