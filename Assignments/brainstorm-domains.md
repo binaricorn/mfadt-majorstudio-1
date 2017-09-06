@@ -1,14 +1,17 @@
-# Brainstorming -> Revision
+# Brainstorming -> Revision (Ray LC).
+
+## Initial postit notes for domain analysis
 ![postit notes 1](/mfadt-majorstudio-1/Assignments/brainstorm03.JPG)
 ![postit notes 2](/mfadt-majorstudio-1/Assignments/brainstorm04.JPG)
 
-## Resources
-* [Slides for class](https://swipe.to/8079dr)
-* [The Craft of Research (my abriged version)](https://github.com/binaricorn/mfadt-majorstudio-1/blob/master/Additional%20Readings/The%20Craft%20of%20Research%20-%20Abridged.pdf)
-* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+## Craft of Research meditations of machine intelligence domain.
+* Development context: first mimicking human intelligence, followed by optimized algorithms, followed (now) by network emergent intelligence.
+* Structure composition: part of simplification of human procedures so that built tools can undertake the tasks, AI and computer vision as tools for human applications (surveillance, interactivity, solutions to complex problems) but not as much yet for communication between humans. Intelligence or machine ability broadly speaking should complement human processes so that we live in each others' created embedded world.
+* Grouping comparisons: part of technologies to enrich lives, compares with AR VR as more experience rich modes.
+* What ifs: no machine intelligence means we have to do everything ourselves, create everything from scratch, which is contrary to human evolution.
+* Consensuses and Disagreements: some believe machine intelligence will solve everything from human consciousness to global warming, some believe it's only a unique tool created by humans for humans, the truth will be somewhere in between, perhaps intelligence is a natural biproduct of our ability to code.
 
-## Homework guidelines
-* Read through: 3.3.1 - 3.3.6, “Ask about the History of Your Topic” and onwards
-* Then try 3.4.1 - 3.4.2 with your concepts.
-* Add revised or improved versions of your ideas on your brainstorm-domains blog post
-* Average time this assignment should take: no more than 30 min
+## Craft of Research from question to significance.
+* I am trying to learn about machines that can interact with us as understanding, empathic partners,
+* Because I want to use them to help us communicate with ourselves and others,
+* In order to enrich and simplify our lives.
