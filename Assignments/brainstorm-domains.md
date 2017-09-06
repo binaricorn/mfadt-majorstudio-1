@@ -1,8 +1,8 @@
 # Brainstorming -> Revision (Ray LC).
 
 ## Initial postit notes for domain analysis
-![postit notes 1](/mfadt-majorstudio-1/Assignments/brainstorm03.JPG)
-![postit notes 2](/mfadt-majorstudio-1/Assignments/brainstorm04.JPG)
+![postit notes 1](https://github.com/recfreq/mfadt-majorstudio-1/blob/master/Assignments/brainstorm03.JPG)
+![postit notes 2](https://github.com/recfreq/mfadt-majorstudio-1/blob/master/Assignments/brainstorm04.JPG)
 
 ## Craft of Research meditations of machine intelligence domain.
 * Development context: first mimicking human intelligence, followed by optimized algorithms, followed (now) by network emergent intelligence.
