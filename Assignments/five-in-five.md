@@ -15,7 +15,7 @@ Medium: light
 2. [Scans](https://drive.google.com/open?id=0B_qCK67tHEqDNG05ckxic212eW8)
 
 ### Day 2: Sound :ear:
-Medium: mp3
+Medium: audio
 
 1. [Hands - Sound Typologies](https://drive.google.com/open?id=0B_qCK67tHEqDeGlnMm1WUzBvcnM)
 2. [Sound Mix](https://drive.google.com/open?id=0B_qCK67tHEqDZTZGQldFWWtrU00)
@@ -27,13 +27,13 @@ Medium: food
 2. [Sculpture]()
 
 ### Day 4: Smell :nose:
-Medium: social media
+Medium: memory
 
 1. [Google Form](https://goo.gl/forms/tRxYy8HOBknps4IF2)
 2. [Smell My Hands Tumblr](https://smellmyhands.tumblr.com/)
 
 ### Day 5: Touch :point_up_2:
-Medium: arduino
+Medium: technology
 1. [Prototype](https://drive.google.com/open?id=0B_qCK67tHEqDc19paXZwdGZ5UVE)
 2. [Code]()
 
