@@ -8,3 +8,12 @@ This project is for me to brainstorm ways that can prevend such situation so tha
 I used drawings to express my ideas. Although they are pretty simple.
 
 ![Img](img/day4/1.jpg)
+
+I selected several ideas to make small comic to demonstrate the scenario.
+
+![Img](img/day4/2.jpg)
+![Img](img/day4/4.jpg)
+![Img](img/day4/5.jpg)
+
+
+
