@@ -1,6 +1,6 @@
 # Brainstorming -> Revision
-![postit notes 1](/brainstorm03.JPG)
-![postit notes 2](/brainstorm04.JPG)
+![postit notes 1](/mfadt-majorstudio-1/Assignments/brainstorm03.JPG)
+![postit notes 2](/mfadt-majorstudio-1/Assignments/brainstorm04.JPG)
 
 ## Resources
 * [Slides for class](https://swipe.to/8079dr)
