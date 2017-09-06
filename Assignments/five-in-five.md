@@ -1,4 +1,8 @@
-# 5 in 5
+# Ray LC 5 in 5
+[Project documentation]
+(https://recfreq.github.io/circle/circle.html)
+
+## Original assignment
 [Project brief](https://docs.google.com/a/newschool.edu/document/d/1LOWQXv9i27Uj8eECxLeZi66yjTRcqk260O4kw_98eOc/edit?usp=sharing)
 
 ## Assignment guidelines
