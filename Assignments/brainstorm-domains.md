@@ -42,3 +42,5 @@ Here are the results for some of my areas of interest:
 	- because I want to develop alternative ideas for possible futures
 		- in order to develop alternative ideas to the hackneyed commercial future scenarios presented to us by technology companies.
 		- in order to evaluate possible applications and implications of upcoming technologies.
+
+# Mindmap

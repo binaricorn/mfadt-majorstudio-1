@@ -2,19 +2,16 @@
 
 Today's project is a reversed take on a series about ‘getting new ideas’. Basically my mind wandered from the concept of *preventing others to get any ideas* to cryptography.
 
-![img](img/cryptography-3.jpeg)
+![img](img/cryptography-3.jpeg)  
 *Martin Parr
-ITALY. Pisa. The Leaning Tower of Pisa. From 'Small World'. 1990.
-*
+ITALY. Pisa. The Leaning Tower of Pisa. From 'Small World'. 1990.*
 
 We're sharing big amounts of data with companies like Facebook. They provide a useful, free service but at the same time monetize our personal information. With evolving computer vision and AI technology, even from images they can extract meta information like faces, locations, and much more.  
 A quick test with Gooogle's Cloud Vision API demonstrates the information that can easily be detected from a picture. 
 
 ![img](img/cryptography-1.png)
 
-I used [an iconic photo by British photographer Martin Parr](
-Martin Parr
-ITALY. Pisa. The Leaning Tower of Pisa. From 'Small World'. 1990.). However, the algorithms can identify much more subtle landscapes as I demonstrate in the following example:
+I used [an iconic photo by British photographer Martin Parr](https://pro.magnumphotos.com/Asset/-29YL53P4JZB.html). However, the algorithms can identify much more subtle landscapes as I demonstrate in the following example:
 
 ![img](img/cryptography-2.jpeg)
 
