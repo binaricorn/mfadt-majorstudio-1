@@ -8,3 +8,4 @@
 * Emotional Communication
 
 ## Domain map (of emotional communication)
+![Img](mfadt-majorstudio-1/Assignments/1D/brainstorm-revised.jpg)
