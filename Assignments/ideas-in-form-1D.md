@@ -11,4 +11,4 @@ The bright morning light coming through your east-facing window awakens you. You
 
 
 ## Perception - Human senses vs Technological sensors
-![1D Mindmap](https://github.com/jacqswu/mfadt-majorstudio-1/Assignments/images/1D_mindmap.jpg)
+![1D Mindmap](mfadt-majorstudio-1/Assignments/images/1D_mindmap.jpg)
