@@ -11,3 +11,11 @@
 * Then try 3.4.1 - 3.4.2 with your concepts.
 * Add revised or improved versions of your ideas on your brainstorm-domains blog post
 * Average time this assignment should take: no more than 30 min
+
+
+## Homework
+My brainstorm on class:
+![Img](d1/10.JPG)
+
+After reading 'The craft of research', I improved my question of the domain of social justice into:
+I am trying to work on express social justice in an inspiring way because I want to find out how to represent such social issues as I think there is a lack of such explorations and I want to study using different methods that link to design and technology to make contribution in improving such issues. This is in order to help my readers understand what is social justice and to inspire them think more about social problems in our societies.
