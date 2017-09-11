@@ -12,3 +12,8 @@ The bright morning light coming through your east-facing window awakens you. You
 
 ## Perception - Human senses vs Technological sensors
 ![1D Mindmap](https://github.com/jacqswu/mfadt-majorstudio-1/blob/master/Assignments/images/1D_mindmap.jpg)
+
++ Where is there harmony/compatibility and where is there conflict/discrepancy between how humans sense and how computers read sensors?
++ Understand how technology collects, interprets, stores, executes data. What are the triggers?
++ How technology can augment or dull our senses?
++ What are the dangers or opportunities that sensory technology can offer us?
