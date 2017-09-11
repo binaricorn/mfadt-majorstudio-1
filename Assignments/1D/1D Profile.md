@@ -1,5 +1,7 @@
 # 1D - Narrative Research
 
+### [See Presentation Slides](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/1D/1D_research_0910.pdf)
+
 ## Interesting domains
 * Feminism
 * Advertising
