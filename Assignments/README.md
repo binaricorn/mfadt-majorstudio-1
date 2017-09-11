@@ -6,7 +6,7 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [5 in 5](five-in-five.md)
 * [(In class) Brainstorm around interest areas and research domains](brainstorm-domains.md)
 #### Ideas in Form
-* 1D Narratives
+* [1D Narratives](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/1D/1D%20Profile.md)
 * 2D Flatland
 * 3D Tangibles
 * 4D Time
