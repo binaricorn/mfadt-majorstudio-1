@@ -11,3 +11,6 @@
 * Then try 3.4.1 - 3.4.2 with your concepts.
 * Add revised or improved versions of your ideas on your brainstorm-domains blog post
 * Average time this assignment should take: no more than 30 min
+
+## [My Brainstorm](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/brainstorm-revised.jpg)
+
