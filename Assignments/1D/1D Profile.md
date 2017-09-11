@@ -6,3 +6,5 @@
 * Signal Lamp
 * Aesthetics
 * Emotional Communication
+
+## Domain map (of emotional communication)
