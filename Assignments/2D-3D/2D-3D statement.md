@@ -1,4 +1,4 @@
-# 2D - 3D - Narrative Research
+# 2D - 3D
 
 ### [See Presentation Slides](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/2D-3D/2D%263D_0916.pdf)
 
