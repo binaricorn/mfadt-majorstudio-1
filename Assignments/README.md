@@ -7,8 +7,8 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [(In class) Brainstorm around interest areas and research domains](brainstorm-domains.md)
 #### Ideas in Form
 * [1D Narratives](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/1D/1D%20Profile.md)
-* 2D Flatland
-* 3D Tangibles
+* 2D Flatland(https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/2D-3D/2D-3D%20statement.md)
+* 3D Tangibles(https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/2D-3D/2D-3D%20statement.md)
 * 4D Time
 * [Reading] Donella Meadows, Leverage Points, Places to Intervene is a System
 * 5D Instruction Sets for Strangers
