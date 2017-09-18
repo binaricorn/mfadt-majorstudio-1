@@ -1,6 +1,6 @@
 # 2D - 3D - Narrative Research
 
-### [See Presentation Slides](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/1D/1D_research_0910.pdf)
+### [See Presentation Slides](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/2D-3D/2D%263D_0916.pdf)
 
 ## Main Concerns
 * How do you want your concept to be experienced?
