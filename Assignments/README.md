@@ -8,8 +8,8 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [Domain Mindmap](img/mindmap.png)
 #### Ideas in Form
 * [1D Narratives](1D-Narratives.md)
-* 2D Flatland
-* 3D Tangibles
+* [2D Flatlands](2D.md)
+* [3D Tangibles](3D.md)
 * 4D Time
 * [Reading] Donella Meadows, Leverage Points, Places to Intervene is a System
 * 5D Instruction Sets for Strangers
