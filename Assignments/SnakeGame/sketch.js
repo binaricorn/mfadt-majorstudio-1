@@ -1,4 +1,5 @@
 
+//Example code from https://p5js.org/examples/interaction-snake-game.html 
 // the snake is divided into small segments, which are drawn and edited on each 'draw' call
 var numSegments = 10;
 var direction = 'right';
@@ -17,16 +18,9 @@ var count = [];
 var xf = 0;
 var yf = 0;
 
-// var scoreElem;
-
 var status = 1;
 
 function setup() {
-  // scoreElem = createDiv('Score = 0');
-  // scoreElem.position(width/2, height/2);
-  // scoreElem.id = 'score';
-  // scoreElem.style('color', 'white');
-  
   createCanvas(800, 600);
   frameRate(15);
   stroke(255);
@@ -142,8 +136,6 @@ function updateSnakeCoordinates() {
 function checkGameStatus() {
   if (checkSnakeCollision()) {
     noLoop();
-    // var scoreVal = parseInt(scoreElem.html().substring(8));
-    // scoreElem.html('Game ended! Your score was : ' + scoreVal);
   }
 }
 
