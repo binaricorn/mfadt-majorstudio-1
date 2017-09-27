@@ -22,17 +22,33 @@ var yFruit3 = 0;
 var xFruit4 = 0;
 var yFruit4 = 0;
 
+var xf = 0;
+var yf = 0;
+
 function setup() {
   
   createCanvas(800, 600);
   frameRate(15);
   stroke(255);
-  updateFruitCoordinates();
 
   for (var i = 0; i < numSegments; i++) {
     xCor.push(xStart + (i * diff));
     yCor.push(yStart);
   }
+  
+  xFruit1 = floor(random(10, (width - 100) / 10)) * 10;
+  yFruit1 = floor(random(10, (height - 100) / 10)) * 10;
+  xFruit2 = floor(random(10, (width - 100) / 10)) * 10;
+  yFruit2 = floor(random(10, (height - 100) / 10)) * 10;
+  xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
+  yFruit3 = floor(random(10, (height - 100) / 10)) * 10;
+  xFruit4 = floor(random(10, (width - 100) / 10)) * 10;
+  yFruit4 = floor(random(10, (height - 100) / 10)) * 10;
+  
+  updateFruitCoordinates(xFruit1, yFruit1);
+  updateFruitCoordinates(xFruit2, yFruit2);
+  updateFruitCoordinates(xFruit3, yFruit3);
+  updateFruitCoordinates(xFruit4, yFruit4);
 }
 
 function draw() {
@@ -41,16 +57,29 @@ function draw() {
   strokeWeight(0);
   var m = millis();
   text("Seconds running: \t" + int(m/1000), 40, 40);
+  text("Number of segments: \t" + numSegments, 40, 60);
   strokeWeight(10);
-  for (var i = 0; i < numSegments - 1; i++) {
-    line(xCor[i], yCor[i], xCor[i + 1], yCor[i + 1]);
-  }
-  updateSnakeCoordinates();
+  
   checkGameStatus();
+  stroke(random(255), random(255), random(255));
   checkForFruit(xFruit1, yFruit1);
+  stroke(random(255), random(255), random(255));
   checkForFruit(xFruit2, yFruit2);
+  stroke(random(255), random(255), random(255));
   checkForFruit(xFruit3, yFruit3);
-  checkForFruit(xFruit3, yFruit4);
+  stroke(random(255), random(255), random(255));
+  checkForFruit(xFruit4, yFruit4);
+  
+  stroke(255, 255, 255);
+  for (var i = 1; i < numSegments - 1; i++) {
+    if ((xCor[i+1] - xCor[i])*(xCor[i] - xCor[i-1]) < 0 || (yCor[i+1] - yCor[i])*(yCor[i] - yCor[i-1]) < 0) {
+       //do nothing
+    } else {
+      line(xCor[i], yCor[i], xCor[i + 1], yCor[i + 1]);
+    }
+  }
+  
+  updateSnakeCoordinates();
 }
 
 /*
@@ -65,11 +94,21 @@ function draw() {
  or down, the segment's y coordinate is affected.
 */
 function updateSnakeCoordinates() {
-
+  
   for (var i = 0; i < numSegments - 1; i++) {
-    xCor[i] = xCor[i + 1];
-    yCor[i] = yCor[i + 1];
+      if (xCor[i] >= 0) {
+        	xCor[i] = xCor[i + 1] % width;
+      } else {
+	        xCor[i] = xCor[i + 1] % width + width;
+      }
+
+      if (yCor[i] >= 0) {
+  	      yCor[i] = yCor[i + 1] % height;
+      } else {
+    	    yCor[i] = yCor[i + 1] % height + height;
+      }
   }
+  
   switch (direction) {
     case 'right':
       xCor[numSegments - 1] = xCor[numSegments - 2] + diff;
@@ -90,17 +129,30 @@ function updateSnakeCoordinates() {
   }
 }
 
+/*
+ I always check the snake's head position xCor[xCor.length - 1] and
+ yCor[yCor.length - 1] to see if it touches the game's boundaries
+ or if the snake hits itself.
+*/
 function checkGameStatus() {
-  
-  if (xCor[xCor.length - 1] > width) {
-    xCor[xCor.length - 1] = 0;
-    xCor[0] = 0;
-  } else if (xCor[xCor.length - 1] < 0) {
-    xCor[xCor.length - 1] = width;
-  } else if (yCor[yCor.length - 1] > height) {
-    yCor[yCor.length - 1] = 0;
-  } else if (yCor[yCor.length - 1] < 0) {
-    yCor[yCor.length - 1] = height;
+  if (checkSnakeCollision()) {
+    noLoop();
+    var scoreVal = parseInt(scoreElem.html().substring(8));
+    scoreElem.html('Game ended! Your score was : ' + scoreVal);
+  }
+}
+
+/*
+ If the snake hits itself, that means the snake head's (x,y) coordinate
+ has to be the same as one of its own segment's (x,y) coordinate.
+*/
+function checkSnakeCollision() {
+  var snakeHeadX = xCor[xCor.length - 1];
+  var snakeHeadY = yCor[yCor.length - 1];
+  for (var i = 0; i < xCor.length - 1; i++) {
+    if (xCor[i] === snakeHeadX && yCor[i] === snakeHeadY) {
+      return true;
+    }
   }
 }
 
@@ -115,25 +167,30 @@ function checkForFruit(xf, yf) {
     xCor.unshift(xCor[0]);
     yCor.unshift(yCor[0]);
     numSegments++;
-    updateFruitCoordinates();
+    stroke(random(255), random(255), random(255));
+    updateFruitCoordinates(xf, yf);
   }
+  // stroke(255,255,255);
 }
 
-function updateFruitCoordinates() {
+function updateFruitCoordinates(xf,  yf) {
   /*
     The complex math logic is because I wanted the point to lie
     in between 100 and width-100, and be rounded off to the nearest
     number divisible by 10, since I move the snake in multiples of 10.
   */
-
-  xFruit1 = floor(random(10, (width - 100) / 10)) * 10;
-  yFruit1 = floor(random(10, (height - 100) / 10)) * 10;
-  xFruit2 = floor(random(10, (width - 100) / 10)) * 10;
-  yFruit2 = floor(random(10, (height - 100) / 10)) * 10;
-  xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
-  yFruit3 = floor(random(10, (height - 100) / 10)) * 10;
-  xFruit4 = floor(random(10, (width - 100) / 10)) * 10;
-  yFruit4 = floor(random(10, (height - 100) / 10)) * 10;
+  
+  xf = floor(random(10, (width - 100) / 10)) * 10;
+  yf = floor(random(10, (height - 100) / 10)) * 10;
+  
+  // xFruit1 = floor(random(10, (width - 100) / 10)) * 10;
+  // yFruit1 = floor(random(10, (height - 100) / 10)) * 10;
+  // xFruit2 = floor(random(10, (width - 100) / 10)) * 10;
+  // yFruit2 = floor(random(10, (height - 100) / 10)) * 10;
+  // xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
+  // yFruit3 = floor(random(10, (height - 100) / 10)) * 10;
+  // xFruit4 = floor(random(10, (width - 100) / 10)) * 10;
+  // yFruit4 = floor(random(10, (height - 100) / 10)) * 10;
 }
 
 function keyPressed() {
