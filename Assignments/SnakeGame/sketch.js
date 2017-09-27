@@ -36,6 +36,7 @@ function setup() {
     yCor.push(yStart);
   }
   
+  //generate fruit initial position
   xFruit1 = floor(random(10, (width - 100) / 10)) * 10;
   yFruit1 = floor(random(10, (height - 100) / 10)) * 10;
   xFruit2 = floor(random(10, (width - 100) / 10)) * 10;
@@ -45,10 +46,6 @@ function setup() {
   xFruit4 = floor(random(10, (width - 100) / 10)) * 10;
   yFruit4 = floor(random(10, (height - 100) / 10)) * 10;
   
-  updateFruitCoordinates(xFruit1, yFruit1);
-  updateFruitCoordinates(xFruit2, yFruit2);
-  updateFruitCoordinates(xFruit3, yFruit3);
-  updateFruitCoordinates(xFruit4, yFruit4);
 }
 
 function draw() {
@@ -61,13 +58,13 @@ function draw() {
   strokeWeight(10);
   
   checkGameStatus();
-  stroke(random(255), random(255), random(255));
+  stroke(239, 75, 60);
   checkForFruit(xFruit1, yFruit1);
-  stroke(random(255), random(255), random(255));
+  stroke(242, 198, 14);
   checkForFruit(xFruit2, yFruit2);
-  stroke(random(255), random(255), random(255));
+  stroke(45, 150, 223);
   checkForFruit(xFruit3, yFruit3);
-  stroke(random(255), random(255), random(255));
+  stroke(6, 188, 154);
   checkForFruit(xFruit4, yFruit4);
   
   stroke(255, 255, 255);
@@ -162,13 +159,16 @@ function checkSnakeCollision() {
  I add the last segment again at the tail, thereby extending the tail)
 */
 function checkForFruit(xf, yf) {
-  point(xf, yf);
+  // point(xf, yf);
   if (xCor[xCor.length - 1] === xf && yCor[yCor.length - 1] === yf) {
     xCor.unshift(xCor[0]);
     yCor.unshift(yCor[0]);
     numSegments++;
     stroke(random(255), random(255), random(255));
     updateFruitCoordinates(xf, yf);
+    point(xf, yf);
+  } else {
+    point(xf, yf);
   }
   // stroke(255,255,255);
 }
@@ -179,18 +179,19 @@ function updateFruitCoordinates(xf,  yf) {
     in between 100 and width-100, and be rounded off to the nearest
     number divisible by 10, since I move the snake in multiples of 10.
   */
-  
-  xf = floor(random(10, (width - 100) / 10)) * 10;
-  yf = floor(random(10, (height - 100) / 10)) * 10;
-  
-  // xFruit1 = floor(random(10, (width - 100) / 10)) * 10;
-  // yFruit1 = floor(random(10, (height - 100) / 10)) * 10;
-  // xFruit2 = floor(random(10, (width - 100) / 10)) * 10;
-  // yFruit2 = floor(random(10, (height - 100) / 10)) * 10;
-  // xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
-  // yFruit3 = floor(random(10, (height - 100) / 10)) * 10;
-  // xFruit4 = floor(random(10, (width - 100) / 10)) * 10;
-  // yFruit4 = floor(random(10, (height - 100) / 10)) * 10;
+  if (xf === xFruit1){
+    xFruit1 = floor(random(10, (width - 100) / 10)) * 10;
+    yFruit1 = floor(random(10, (height - 100) / 10)) * 10;
+  } else if (xf === xFruit2) {
+    xFruit2 = floor(random(10, (width - 100) / 10)) * 10;
+    yFruit2 = floor(random(10, (height - 100) / 10)) * 10;
+  } else if (xf === xFruit3) {
+    xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
+    yFruit3 = floor(random(10, (height - 100) / 10)) * 10;    
+  } else if (xf === xFruit4) {
+    xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
+    yFruit3 = floor(random(10, (height - 100) / 10)) * 10;   
+  }
 }
 
 function keyPressed() {
