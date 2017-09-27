@@ -10,22 +10,22 @@ var diff = 10;
 var xCor = [];
 var yCor = [];
 
-var xFruit1 = 0;
-var yFruit1 = 0;
-
-var xFruit2 = 0;
-var yFruit2 = 0;
-
-var xFruit3 = 0;
-var yFruit3 = 0;
-
-var xFruit4 = 0;
-var yFruit4 = 0;
+var xFruit = [];
+var yFruit = [];
+var count = [];
 
 var xf = 0;
 var yf = 0;
 
+// var scoreElem;
+
+var status = 1;
+
 function setup() {
+  // scoreElem = createDiv('Score = 0');
+  // scoreElem.position(width/2, height/2);
+  // scoreElem.id = 'score';
+  // scoreElem.style('color', 'white');
   
   createCanvas(800, 600);
   frameRate(15);
@@ -37,14 +37,11 @@ function setup() {
   }
   
   //generate fruit initial position
-  xFruit1 = floor(random(10, (width - 100) / 10)) * 10;
-  yFruit1 = floor(random(10, (height - 100) / 10)) * 10;
-  xFruit2 = floor(random(10, (width - 100) / 10)) * 10;
-  yFruit2 = floor(random(10, (height - 100) / 10)) * 10;
-  xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
-  yFruit3 = floor(random(10, (height - 100) / 10)) * 10;
-  xFruit4 = floor(random(10, (width - 100) / 10)) * 10;
-  yFruit4 = floor(random(10, (height - 100) / 10)) * 10;
+  for (var i = 0; i < 4; i++) {
+    xFruit[i] = floor(random(10, (width - 100) / 10)) * 10;
+    yFruit[i] = floor(random(10, (height - 100) / 10)) * 10;
+    count[i] = 0;
+  }
   
 }
 
@@ -55,19 +52,30 @@ function draw() {
   var m = millis();
   text("Seconds running: \t" + int(m/1000), 40, 40);
   text("Number of segments: \t" + numSegments, 40, 60);
+  text("Red: \t" + count[0], 40, 80);
+  text("Yellow: \t" + count[1], 40, 100);
+  text("Blue: \t" + count[2], 40, 120);
+  text("Green: \t" + count[3], 40, 140);
   strokeWeight(10);
   
   checkGameStatus();
+  //red
   stroke(239, 75, 60);
-  checkForFruit(xFruit1, yFruit1);
+  checkForFruit(xFruit[0], yFruit[0]);
+  //yellow
   stroke(242, 198, 14);
-  checkForFruit(xFruit2, yFruit2);
+  checkForFruit(xFruit[1], yFruit[1]);
+  //blue
   stroke(45, 150, 223);
-  checkForFruit(xFruit3, yFruit3);
+  checkForFruit(xFruit[2], yFruit[2]);
+  //green
   stroke(6, 188, 154);
-  checkForFruit(xFruit4, yFruit4);
+  checkForFruit(xFruit[3], yFruit[3]);
   
-  stroke(255, 255, 255);
+  if (status) {
+    stroke(255, 255, 255);
+  }
+  
   for (var i = 1; i < numSegments - 1; i++) {
     if ((xCor[i+1] - xCor[i])*(xCor[i] - xCor[i-1]) < 0 || (yCor[i+1] - yCor[i])*(yCor[i] - yCor[i-1]) < 0) {
        //do nothing
@@ -134,8 +142,8 @@ function updateSnakeCoordinates() {
 function checkGameStatus() {
   if (checkSnakeCollision()) {
     noLoop();
-    var scoreVal = parseInt(scoreElem.html().substring(8));
-    scoreElem.html('Game ended! Your score was : ' + scoreVal);
+    // var scoreVal = parseInt(scoreElem.html().substring(8));
+    // scoreElem.html('Game ended! Your score was : ' + scoreVal);
   }
 }
 
@@ -159,18 +167,35 @@ function checkSnakeCollision() {
  I add the last segment again at the tail, thereby extending the tail)
 */
 function checkForFruit(xf, yf) {
-  // point(xf, yf);
   if (xCor[xCor.length - 1] === xf && yCor[yCor.length - 1] === yf) {
-    xCor.unshift(xCor[0]);
-    yCor.unshift(yCor[0]);
-    numSegments++;
+    for (var i = 0; i < 4; i++) {
+      if (xf === xFruit[i]) {
+        if (i === 0) {
+          for (var n = 0; n < numSegments; n++) {
+            xCor[n]+=100;
+            yCor[n]+=100;
+          }
+        }
+        
+        if (i === 1) {
+          xCor.unshift(xCor[0]);
+          yCor.unshift(yCor[0]);
+          numSegments++;
+        }
+        
+        if (i === 2) {
+          xCor.pop();
+          yCor.pop();
+          numSegments--;
+        }
+      }
+    }
     stroke(random(255), random(255), random(255));
     updateFruitCoordinates(xf, yf);
     point(xf, yf);
   } else {
     point(xf, yf);
   }
-  // stroke(255,255,255);
 }
 
 function updateFruitCoordinates(xf,  yf) {
@@ -179,18 +204,12 @@ function updateFruitCoordinates(xf,  yf) {
     in between 100 and width-100, and be rounded off to the nearest
     number divisible by 10, since I move the snake in multiples of 10.
   */
-  if (xf === xFruit1){
-    xFruit1 = floor(random(10, (width - 100) / 10)) * 10;
-    yFruit1 = floor(random(10, (height - 100) / 10)) * 10;
-  } else if (xf === xFruit2) {
-    xFruit2 = floor(random(10, (width - 100) / 10)) * 10;
-    yFruit2 = floor(random(10, (height - 100) / 10)) * 10;
-  } else if (xf === xFruit3) {
-    xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
-    yFruit3 = floor(random(10, (height - 100) / 10)) * 10;    
-  } else if (xf === xFruit4) {
-    xFruit3 = floor(random(10, (width - 100) / 10)) * 10;
-    yFruit3 = floor(random(10, (height - 100) / 10)) * 10;   
+  for (var i = 0; i < 4; i++) {
+    if (xf === xFruit[i]) {
+      xFruit[i] = floor(random(10, (width - 100) / 10)) * 10;
+      yFruit[i] = floor(random(10, (height - 100) / 10)) * 10;
+      count[i]++;
+    }
   }
 }
 
