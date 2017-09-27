@@ -14,11 +14,10 @@ var yCor = [];
 var xFruit = [];
 var yFruit = [];
 var count = [];
+var arrow = [];
 
 var xf = 0;
 var yf = 0;
-
-var status = 1;
 
 function setup() {
   createCanvas(800, 600);
@@ -35,6 +34,7 @@ function setup() {
     xFruit[i] = floor(random(10, (width - 100) / 10)) * 10;
     yFruit[i] = floor(random(10, (height - 100) / 10)) * 10;
     count[i] = 0;
+    arrow[i] = 0;
   }
   
 }
@@ -50,6 +50,10 @@ function draw() {
   text("Yellow: \t" + count[1], 40, 100);
   text("Blue: \t" + count[2], 40, 120);
   text("Green: \t" + count[3], 40, 140);
+  text("Left: \t" + arrow[0], 40, 160);
+  text("Right: \t" + arrow[1], 40, 180);
+  text("Up: \t" + arrow[2], 40, 200);
+  text("Down: \t" + arrow[3], 40, 220);
   strokeWeight(10);
   
   checkGameStatus();
@@ -66,9 +70,7 @@ function draw() {
   stroke(6, 188, 154);
   checkForFruit(xFruit[3], yFruit[3]);
   
-  if (status) {
-    stroke(255, 255, 255);
-  }
+  stroke(255, 255, 255);
   
   for (var i = 1; i < numSegments - 1; i++) {
     if ((xCor[i+1] - xCor[i])*(xCor[i] - xCor[i-1]) < 0 || (yCor[i+1] - yCor[i])*(yCor[i] - yCor[i-1]) < 0) {
@@ -210,21 +212,25 @@ function keyPressed() {
     case LEFT_ARROW:
       if (direction != 'right') {
         direction = 'left';
+        arrow[0]++;
       }
       break;
     case RIGHT_ARROW:
       if (direction != 'left') {
         direction = 'right';
+        arrow[1]++;
       }
       break;
     case UP_ARROW:
       if (direction != 'down') {
         direction = 'up';
+        arrow[2]++;
       }
       break;
     case DOWN_ARROW:
       if (direction != 'up') {
         direction = 'down';
+        arrow[3]++;
       }
       break;
   }
