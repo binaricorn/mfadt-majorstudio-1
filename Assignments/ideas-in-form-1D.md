@@ -1,5 +1,6 @@
 # Ideas in Form - 1D Narratives
 [Official project brief](https://docs.google.com/a/newschool.edu/document/d/1g2bfUFsO3ycpkBmhfYAV1vCq5iOH0ZaZ-rptcom11W8/edit?usp=sharing)
+/ [Swipe slides](https://swipe.to/2159dt)
 
 [Presentation Link](https://drive.google.com/open?id=1dOeIZNpiKHYRiCUe-K1DQp6rwh8b3YhH58c_8V3eFEw)
 

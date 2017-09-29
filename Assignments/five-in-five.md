@@ -1,5 +1,6 @@
 # 5 in 5
 [Project brief](https://docs.google.com/a/newschool.edu/document/d/1LOWQXv9i27Uj8eECxLeZi66yjTRcqk260O4kw_98eOc/edit?usp=sharing)
+[Swipe slides](https://swipe.to/8079dr)
 
 [Presentation Link](https://docs.google.com/a/newschool.edu/presentation/d/1UmHvRZNYUJ-XpApZOpzDwaXZFIf59LALUozw5_EFDck/edit?usp=sharing)
 
