@@ -1,6 +1,7 @@
 # Ideas in Form - 5D 
 * [Official project brief](https://docs.google.com/a/newschool.edu/document/d/1WYUMAwS_FKTgy_Uxr5tQWwmLnK0z0HMvoagfGr-2KuY/edit?usp=sharing)
-* [Swipe slides](https://swipe.to/2868dx)
+* [Swipe slides - Week 1](https://swipe.to/2868dx)
+* [Swipe slides - Week 2](https://swipe.to/5156dy)
 
 # Week 1:
 
@@ -14,4 +15,13 @@
 
 ## Presentation guidelines
 * On Monday, 10/2
+* 5-7 minutes presentation each group
+
+# Week 2:
+
+## Assignment guidelines
+* Create first public prototype with rough documentation of public interaction
+
+## Presentation guidelines
+* On Wednesday, 10/4
 * 5-7 minutes presentation each group
