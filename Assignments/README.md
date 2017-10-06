@@ -11,6 +11,6 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [3D Tangibles](https://github.com/iristy318/mfadt-majorstudio-1/blob/master/Assignments/2D-3D/2D-3D%20statement.md)
 * [4D Time](https://ty-987654321.wixsite.com/irisdtworks/single-post/2017/09/25/Ideas-in-Form-4D-Time)
 * [Reading] Donella Meadows, Leverage Points, Places to Intervene is a System
-* 5D Instruction Sets for Strangers
+* [5D Instruction Sets for Strangers](https://youtu.be/QoekkYD5h0M)
 #### Midterms
 
