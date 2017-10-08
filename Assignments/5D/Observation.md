@@ -7,6 +7,10 @@
 
 ### Maps :memo:
 
+![Img](pics/Map1.png)
+
+![Img](pics/Map2.png)
+
 ### Video :video_camera:
 
-:point_right: [Click here to see the video](https://drive.google.com/file/d/0B0F2hYIJEInzUlZOSE4zZ3p0OTg/view?usp=sharing)
+:point_right: [Click here to see the video](https://vimeo.com/237248125)
