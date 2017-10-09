@@ -6,4 +6,4 @@
 
 ### Video :video_camera:
 
-:point_right: [Click here to see the video](https://vimeo.com/236744634)
+:point_right: [Click here to see the video](https://youtu.be/ZHO4VDuILcw)
