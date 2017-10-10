@@ -11,6 +11,5 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [2D Flatlands](2D.md)
 * [3D Tangibles](3D.md)
 * [4D Time](4D.md)
-* [Reading] Donella Meadows, Leverage Points, Places to Intervene is a System
-* 5D Instruction Sets for Strangers
+* [5D Instruction Sets for Strangers](5D.md)
 #### Midterms
