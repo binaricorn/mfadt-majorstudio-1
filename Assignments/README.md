@@ -21,4 +21,4 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [5D presentation](https://drive.google.com/open?id=1WKK1-uzLuuM3YcwUmCIQvOF4woC7KwQXkxRSPmNtTDE)
 
 #### Midterms
-
+[Midterm presentation](https://github.com/youozhan/mfadt-majorstudio-1/blob/master/Assignments/Major%20Studio%20Midterm.pdf)
