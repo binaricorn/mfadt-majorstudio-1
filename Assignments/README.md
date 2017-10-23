@@ -12,4 +12,5 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [3D Tangibles](3D.md)
 * [4D Time](4D.md)
 * [5D Instruction Sets for Strangers](5D.md)
-#### Midterms
+#### Final Project
+* [Notes on “As We May Think”](As-We-May-Think.md)
