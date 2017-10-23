@@ -22,3 +22,6 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 
 #### Midterms
 [Midterm presentation](https://github.com/youozhan/mfadt-majorstudio-1/blob/master/Assignments/Major%20Studio%20Midterm.pdf)
+
+## Part 2
+* [Readings](note-asWeMayThink.md)
