@@ -1,8 +1,8 @@
 # Final Project
 
 ## Slides
-#### * Week 11 slides: https://swipe.to/9519fd
-#### * Week 10 slides: https://swipe.to/8431fd
+#### [Week 11 slides](https://swipe.to/9519fd)
+#### [Week 10 slides](https://swipe.to/8431fd)
 
 ## Guidelines
 #### [Final Project guidelines](https://docs.google.com/a/newschool.edu/document/d/1xn6VezI7p6oNyU3Xwld9ULZ5vOY4f1055xy0LC_fA60/edit?usp=sharing)
