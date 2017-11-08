@@ -21,5 +21,6 @@ Think about:  the message you wanted to communicate, the feeling you wanted it t
 * [[Reading] Cultural probes and the value of uncertainty](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.5487&rep=rep1&type=pdf)
 * [5D Instruction Sets for Strangers](ideas-in-form-5D.md)
 #### Midterms
+#### Finals
 * [Final Project](final-project.md)
 
