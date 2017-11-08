@@ -12,3 +12,7 @@
 
 #### Reading
 #### [[Reading] Donella Meadows, Leverage Points, Places to Intervene is a System](http://www.donellameadows.org/wp-content/userfiles/Leverage_Points.pdf)
+
+#### Class feedback
+#### [Aesthetic prototypes](https://docs.google.com/a/newschool.edu/document/d/15_9ICqgzCQYmoK_Qr4NGqkbs_0OQFMYMZ5h79DzBmYo/edit?usp=sharing)
+#### [Aesthetic prototypes](https://docs.google.com/a/newschool.edu/document/d/1p2PFCXIyI_gDW58tD_Ysc3rlV_X3sBzuFpRGIWC6e5Q/edit?usp=sharing)
