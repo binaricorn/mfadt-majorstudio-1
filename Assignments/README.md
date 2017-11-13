@@ -15,4 +15,4 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 #### Midterms
 
 #### Final Project
-* [Final Paper outline](https://drive.google.com/open?id=1sANAwUMTF5Eh1QC7prPxJRMr6w0qhJIR)
+* [Final Paper outline](https://drive.google.com/a/newschool.edu/file/d/1sANAwUMTF5Eh1QC7prPxJRMr6w0qhJIR/view?usp=sharing)
