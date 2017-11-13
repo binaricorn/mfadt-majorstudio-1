@@ -14,3 +14,5 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [5D Instruction Sets for Strangers](https://ty-987654321.wixsite.com/irisdtworks/single-post/2017/10/05/Instruction-Sets-for-Strangers-1st-Prototype)
 #### Midterms
 
+#### Final Project
+* [Final Paper outline](https://drive.google.com/open?id=1sANAwUMTF5Eh1QC7prPxJRMr6w0qhJIR)
