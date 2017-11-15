@@ -5,13 +5,14 @@ When IoT talks is an Internet of Things project and an interactive installation 
 
 #### Outline
 
-##### Design Manifesto: Why this design is important?
-- Design philiosophy
+##### Design Manifesto: 
+- Why is this design important
+- Design philosophy
 - Universe-centered design
 - Speculative
 
 ##### Research
-- What happened to the future?
+- What happened to the future
 - Superintelligence
 - Human vs. Non-human
 
