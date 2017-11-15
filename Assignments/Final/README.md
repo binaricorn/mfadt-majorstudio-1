@@ -5,6 +5,26 @@ When IoT talks is an Internet of Things project and an interactive installation 
 
 #### Outline
 
+##### Design Manifesto: Why this design is important?
+- Design philiosophy
+- Universe-centered design
+- Speculative
+
+##### Research
+- What happened to the future?
+- Superintelligence
+- Human vs. Non-human
+
+##### Proposal
+- Purpose of this project
+- Audience
+- This project
+- Conceptual Prototype
+- Aesthetic Prototype
+- User Testing
+- Future scope
+- Hypothesized results
+
 
 #### Reference
 * [Addicted Products](http://awards.ixda.org/entry/2014/addicted-products/)
