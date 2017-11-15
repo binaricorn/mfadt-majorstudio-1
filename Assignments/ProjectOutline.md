@@ -34,7 +34,11 @@ this project as an exploration and experiment of approaching my goal
 
 ## Research reference:
 Life Swap Article https://www.theguardian.com/lifeandstyle/2006/jan/15/features.woman8 
+
 Life Swap by Nancy Weber (book)
+
 Somebody App (miu miu) https://www.villagevoice.com/2014/08/28/filmmaker-miranda-julys-new-somebody-app-lets-your-intimate-messages-be-delivered-by-a-complete-stranger/ 
+
 The Beauty inside (film 2015) https://en.wikipedia.org/wiki/The_Beauty_Inside_(2015_film) 
+
 The life swap adventure (BBC) http://www.bbc.co.uk/programmes/b08sxklj 
