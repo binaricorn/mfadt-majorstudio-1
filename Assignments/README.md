@@ -28,4 +28,4 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * Final - Conceptual Prototype
 * Final - Aesthetic Prototype
 * Final - Functional Prototype
-* Final - Outline
+* [Final - Outline](Final/README.md)
