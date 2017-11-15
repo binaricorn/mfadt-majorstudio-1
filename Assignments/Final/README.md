@@ -26,7 +26,6 @@ When IoT talks is an Internet of Things project and an interactive installation 
 - Future scope
 - Hypothesized results
 
-
 #### Reference
 * [Addicted Products](http://awards.ixda.org/entry/2014/addicted-products/)
 
