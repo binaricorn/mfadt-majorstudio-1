@@ -1,6 +1,7 @@
 # Final Project
 
 ## Slides
+#### [Week 12 slides](https://swipe.to/3647fh)
 #### [Week 11 slides](https://swipe.to/9519fd)
 #### [Week 10 slides](https://swipe.to/8431fd)
 
