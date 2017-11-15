@@ -25,3 +25,7 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 
 ## Part 2
 * [Readings](note-asWeMayThink.md)
+* Final - Conceptual Prototype
+* Final - Aesthetic Prototype
+* Final - Functional Prototype
+* Final - Outline
