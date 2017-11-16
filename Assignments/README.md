@@ -14,3 +14,4 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * [5D Instruction Sets for Strangers](5D.md)
 #### Final Project
 * [Notes on “As We May Think”](As-We-May-Think.md)
+* [Final Paper Outline](Final-Paper-Outline.md)
