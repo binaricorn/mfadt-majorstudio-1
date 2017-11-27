@@ -1,7 +1,5 @@
 # MFADT Major Studio 1 Assignments
 
-We'll go on the wild ride of ideation together, and learn about the world and each other.
-
 ## Part 1
 * [5 in 5](five-in-five.md)
 * [(In class) Brainstorm around interest areas and research domains](brainstorm-domains.md)
@@ -25,7 +23,9 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 
 ## Part 2
 * [Readings](note-asWeMayThink.md)
-* Final - Conceptual Prototype
-* Final - Aesthetic Prototype
-* Final - Functional Prototype
+* [Final - Conceptual Prototype](https://swipe.to/7124ff)
+* [Final - Aesthetic Prototype](https://vimeo.com/241910656)
+* [Final - Functional Prototype](https://vimeo.com/242991927)
 * [Final - Outline](Final/README.md)
+* [Final - Draft]
+* [Final - PoC Prototype]
