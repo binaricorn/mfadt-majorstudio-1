@@ -1,4 +1,7 @@
 # 5 in 5
+
+[1.wav](https://github.com/chenlichenli/mfadt-majorstudio-1/blob/master/Assignments/day1.wav)
+
 [Project brief](https://docs.google.com/a/newschool.edu/document/d/1LOWQXv9i27Uj8eECxLeZi66yjTRcqk260O4kw_98eOc/edit?usp=sharing)
 [Swipe slides](https://swipe.to/8079dr)
 
