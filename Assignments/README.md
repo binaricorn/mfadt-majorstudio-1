@@ -16,3 +16,4 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 
 #### Final Project
 * [Final Paper outline](https://drive.google.com/a/newschool.edu/file/d/1sANAwUMTF5Eh1QC7prPxJRMr6w0qhJIR/view?usp=sharing)
+* [Final Paper 1st Draft](https://drive.google.com/a/newschool.edu/file/d/1RtAGN8KKT35cIObmtrirD2qTs3z0ht8s/view?usp=sharing)
