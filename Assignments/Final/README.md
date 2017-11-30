@@ -20,9 +20,9 @@ When IoT talks is an Internet of Things project and an interactive installation 
 - Purpose of this project
 - Audience
 - This project
-- Conceptual Prototype
-- Aesthetic Prototype
-- User Testing
+- Conceptual prototype
+- Aesthetic prototype
+- User testing
 - Future scope
 - Hypothesized results
 
