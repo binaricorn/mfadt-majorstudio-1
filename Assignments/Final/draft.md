@@ -49,7 +49,9 @@ Smithsonian[] listed several human characteristics including walking upright, to
 3.4 Machine language
 
 -WiFi, Bluetooth, 2G/3G/4G cellular[], Thread
+
 -Assembly language, bit
+
 -Morse code
 
 3.5 Digital identity
@@ -60,31 +62,44 @@ Digital identity is the identity claimed in a network environment. It is linked 
 
 4.1 Purpose of this project
 
-This project uses two symbolic objects with some human characteristics as an example, sets up an interactive scenario about objects can see and can talk. Data extracting is no longer the primary purpose of IoT. Instead, they interpret the information from the environment and use it. It is evidence that objects can eventually achieve identifying themselves digitally and physically. More importantly, there is not much intelligence needed. As compared with smart new-style objects, they are so simple that usually the audience may not pay any attention.
+This project uses two symbolic objects with some human characteristics as an example, sets up an interactive scenario about objects can see and can talk. Data extracting is no longer the primary purpose of IoT. Instead, they interpret the information from the environment and use it directly. It is evidence that objects can eventually achieve identifying themselves digitally and physically. More importantly, there is not much intelligence needed. As compared with smart new-style objects, they are so simple that usually the audience may not pay any attention.
 
 4.2 Audience
 
 This project target on following types of audience:
-Household owner who usually ignores the everyday objects
-People who are interested in the Internet of Things future
-People who are interested in non-human things
-People who are interested in a different way of communication 
+-Household owner who usually ignores the everyday objects
+
+-People who are interested in the Internet of Things future
+
+-People who are interested in non-human things
+
+-People who are interested in a different way of communication 
 
 4.3 Conceptual prototype
 
+The first prototype is a web interface with an illustration of the kitchen and a conversational script about the conversation between a toaster and a trashcan.
+
 4.4 Aesthetic prototype
+
+Two physical objects are presented with the servo motor and LED communicating with morse code.
 
 4.5 User testing
 
-In the first round of prototype test, I presented a web interface.
-- The audience thinks that if IoT objects can talk to each other in the future home, the conversation could be "funny" or "scary" or "boring".
-- Two of the audience prefer physical interaction. 
+In the first round of prototype test
 
-In the second round of prototype test, two physical objects are presented with the servo motor and LED communicating with morse code.
-- It is not very clear that the objects are using morse code. 
-- The size may still be a problem. Also if using Arduino, then it is going to be all wire connected. 
-- It needs to be more like a conversation, i.e., when one of the objects is "talking", then maybe the other should be waiting. 
-- A camera module can be added to detect what is happening around and trigger reactions.
+-The audience thinks that if IoT objects can talk to each other in the future home, the conversation could be "funny" or "scary" or "boring".
+
+-Two of the audience prefer physical interaction. 
+
+In the second round of prototype test
+
+-It is not very clear that the objects are using morse code. 
+
+-The size may still be a problem. Also if using Arduino, then it is going to be all wire connected. 
+
+-It needs to be more like a conversation, i.e., when one of the objects is "talking", then maybe the other should be waiting. 
+
+-A camera module can be added to detect what is happening around and trigger reactions.
 
 4.6 Future scope
 
