@@ -27,5 +27,5 @@
 * [Final - Aesthetic Prototype](https://vimeo.com/241910656)
 * [Final - Functional Prototype](https://vimeo.com/242991927)
 * [Final - Outline](Final/README.md)
-* [Final - Draft]
+* [Final - Draft](Final/draft.md)
 * [Final - PoC Prototype]
