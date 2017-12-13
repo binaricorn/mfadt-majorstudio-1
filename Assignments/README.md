@@ -28,4 +28,6 @@
 * [Final - Functional Prototype](https://vimeo.com/242991927)
 * [Final - Outline](Final/README.md)
 * [Final - Draft](Final/draft.md)
-* [Final - PoC Prototype]
+* [Final - PoC Prototype](https://vimeo.com/246714285)
+* [Final presentation](https://github.com/youozhan/mfadt-majorstudio-1/blob/master/Assignments/Final/Major%20Studio%20Final.pdf)
+* [Final - Paper Due](https://github.com/youozhan/mfadt-majorstudio-1/blob/master/Assignments/Final/Final%20Paper.pdf)
