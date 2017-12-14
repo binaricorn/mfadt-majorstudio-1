@@ -30,4 +30,4 @@
 * [Final - Draft](Final/draft.md)
 * [Final - PoC Prototype](https://vimeo.com/246714285)
 * [Final presentation](https://github.com/youozhan/mfadt-majorstudio-1/blob/master/Assignments/Final/Major%20Studio%20Final.pdf)
-* [Final - Paper Due](https://github.com/youozhan/mfadt-majorstudio-1/blob/master/Assignments/Final/Final%20Paper.pdf)
+* [Final - Paper Due](https://drive.google.com/a/newschool.edu/file/d/1MoMhj720DoksCZRhhH6rnAfOQ_SRU31r/view?usp=sharing
