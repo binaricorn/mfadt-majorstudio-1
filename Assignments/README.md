@@ -13,3 +13,5 @@ We'll go on the wild ride of ideation together, and learn about the world and ea
 * 4D Time: [Secret Lives of Machines, machines in time] (https://github.com/recfreq/mfadt-majorstudio-1/blob/master/Assignments/Ray_4D.pdf) demo (https://github.com/recfreq/mfadt-majorstudio-1/blob/master/Assignments/video_elizaSpeedFastRandomLongWait.wmv)
 * 5D Instruction Sets: [Bryant Park investigations] (https://github.com/recfreq/mfadt-majorstudio-1/blob/master/Assignments/BellaRay_InstructionsStrangers.pdf)
 * 5D Instruction Sets: [Bryant Park cross word prototype] (https://github.com/recfreq/mfadt-majorstudio-1/blob/master/Assignments/BellaRay_InstructionsStrangersFinal.pdf)
+* Final Paper: [on secret lives of machines]
+(https://github.com/recfreq/mfadt-majorstudio-1/blob/master/Assignments/Ray_SecretLivesMachinesDraft05Final.pdf)
