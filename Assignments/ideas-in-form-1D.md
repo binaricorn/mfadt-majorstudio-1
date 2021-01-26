@@ -1,11 +1,20 @@
 # Ideas in Form - 1D Narratives
 [Official project brief](https://docs.google.com/a/newschool.edu/document/d/1g2bfUFsO3ycpkBmhfYAV1vCq5iOH0ZaZ-rptcom11W8/edit?usp=sharing)
-[Swipe slides](https://swipe.to/2159dt)
+/ [Swipe slides](https://swipe.to/2159dt)
 
-## Assignment guidelines
-* A creative writing assignment about this project. Who, what, when, how, why? Identify and research the central domains involved with the project.
-* Story and research presentation describing why you are studying that domain. The research presentation should include these: 1) Show expanded mind map of domains, 2) Pick a few central ones and research deep into them. 3) Describe why you are studying them, 4) List communities of practice: who else is studying or making art/design/tech about these domains?
+[Presentation Link](https://drive.google.com/open?id=1dOeIZNpiKHYRiCUe-K1DQp6rwh8b3YhH58c_8V3eFEw)
 
-## Presentation guidelines
-* On Monday, 9/11
-* 5 minutes presentation each person
+<br>
+
+## Creative Fiction
+The bright morning light coming through your east-facing window awakens you. You lay still with your eyes closed, dreading getting up. You can hear the J train pass, and the birds outside chirp regardless. Your mattress feels good beneath you and so do the blankets that cover your body. Your arms stretch up, you open your eyes -- but... something is off. The room is bright but there is no shadow on the wall where your eyes expect them to be. You run to the window and it’s the view of Brooklyn, just like any other morning. You touch the window but it is freezing cold despite the sunlight. You see a see a train coming, but notice a static black dot travel along the length of the cars. It is a pixel. The rumbling of the tracks becomes more apparent. It is from the corner of your ceiling. You rip off the panel and find a motor... it squeaks just as those birds outside. You turn around and tear the sheets off your bed in disorientation... they are just a thousand mechanical pistons forming to your body. And the covers? an invisible humid mist...
+
+
+
+## Perception - Human senses vs Technological sensors
+![1D Mindmap](https://github.com/jacqswu/mfadt-majorstudio-1/blob/master/Assignments/images/1D_mindmap.jpg)
+
++ Where is there harmony/compatibility and where is there conflict/discrepancy between how humans sense and how computers read sensors?
++ Understand how technology collects, interprets, stores, executes data. What are the triggers?
++ How technology can augment or dull our senses?
++ What are the dangers or opportunities that sensory technology can offer us?

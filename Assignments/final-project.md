@@ -11,6 +11,8 @@
 ## Essay
 #### [Final Project essay guidelines](https://docs.google.com/a/newschool.edu/document/d/1v9-HcTR4lvBr1KcMkO8NLnJTtFF3RjxD3yqdy7cef1g/edit?usp=sharing)
 
+#### [171115 Final Project Draft Outline JW](https://docs.google.com/a/newschool.edu/document/d/1AmmvQarh60kFHCpLk10EjgDUj-Z6lkJpF8dQq_87Yew/edit?usp=sharing)
+
 #### Reading
 #### [[Reading] Donella Meadows, Leverage Points, Places to Intervene is a System](http://www.donellameadows.org/wp-content/userfiles/Leverage_Points.pdf)
 

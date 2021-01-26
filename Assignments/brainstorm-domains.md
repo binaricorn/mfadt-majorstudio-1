@@ -1,6 +1,9 @@
 # Brainstorm around interest areas and research domains
 [Official project brief](https://docs.google.com/a/newschool.edu/document/d/1LD6-bFtYp8ZbregL_8YHhkHAm6EwyQelnKf2WNhC5zQ/edit?usp=sharing)
+<<<<<<< HEAD
+=======
 [Swipe slides](https://swipe.to/95500c95b6470xa)
+>>>>>>> def0ab43575fcc11a5eb8979c125ac1ee1b5cc4d
 
 ## Resources
 * [Slides for class](https://swipe.to/8079dr)
